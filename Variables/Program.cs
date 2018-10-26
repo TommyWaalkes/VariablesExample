@@ -13,6 +13,7 @@ namespace Variables
             //String consist of any character on your keyboard 
             //They can have letters, numbers, and symbols 
             //One other perk is that anything + a string will automatically convert the non string into a string
+            //Creating a conflict with this line
 
             String hello = "hello world";
             int money = 9000;
