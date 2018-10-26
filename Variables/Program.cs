@@ -14,6 +14,7 @@ namespace Variables
             //They can have letters, numbers, and symbols 
             //One other perk is that anything + a string will automatically convert the non string into a string
             //TimTom SaladBomb
+            //Taking it to the duuuuuuuump
 
             String hello = "hello world";
             int money = 9000;
